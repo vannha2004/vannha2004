@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Xin chào, tôi là Nhã
 
-<!--
-**vannha2004/vannha2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên Đại học Công nghiệp Hà Nội  
+💻 Đam mê AI, Computer Vision, NLP  
+🚀 Đang làm project về UAV + Path Planning  
 
-Here are some ideas to get you started:
+## 🔧 Kỹ năng
+- Python, C#, JavaScript
+- Machine Learning, Deep Learning
+- WPF, Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Liên hệ
+- Email: yourmail@gmail.com
