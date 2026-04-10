@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Văn Nhã
 
 ### 🤖 AI Engineer at Viettel Cyber Security  
-### 🏆 Valedictorian, Hanoi University of Industry  
+### 🏆 Hanoi University of Industry  
 ### 🛠️ Building practical AI systems for real-world impact
 
 ---
