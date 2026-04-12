@@ -1,18 +1,27 @@
 # 👋 Hi, I'm Văn Nhã
 
 ### 🤖 AI Engineer at Viettel Cyber Security  
-### 🏆 Hanoi University of Industry  
+### 🏆 Valedictorian – Computer Science  
+### 🎓 School of Information and Communications Technology  
+### 🏫 Hanoi University of Industry 
 ### 🛠️ Building practical AI systems for real-world impact
 
 ---
 
 ## 🚀 About Me
 
-I am an **AI Engineer at Viettel Cyber Security**, focused on designing and building applied AI systems for real production environments.
+I am an **AI Engineer at Viettel Cyber Security**, specializing in building **production-ready AI systems** for real-world applications.
 
-Previously, I graduated from **Hanoi University of Industry** as **Valedictorian**, with a strong foundation in software engineering and intelligent systems.
+I graduated as the **Valedictorian in Computer Science** from the **School of Information and Communications Technology, Hanoi University of Industry**.
 
-My work centers on turning AI into usable products — especially across **computer vision**, **NLP/LLM**, **voice AI**, **backend systems**, and **intelligent automation**.
+My expertise lies in transforming AI models into **scalable, deployable products**, with a focus on:
+
+- Computer Vision systems
+- NLP & LLM applications
+- Speech & Voice AI
+- End-to-end AI pipelines and backend integration
+
+I am particularly interested in bridging the gap between **research and real-world deployment**.
 
 ---
 
@@ -78,11 +87,18 @@ My work centers on turning AI into usable products — especially across **compu
 
 ---
 
+## 🧪 Selected Projects
+
+- 🔍 AI Speaker Verification System (EER SOTA on internal benchmark)
+- 🎙️ End-to-End Voice Processing Pipeline (VAD + STT + Alignment + Detection)
+- 🧠 LLM-based Intelligent Assistant with RAG
+- 👁️ Real-time Object Detection System (YOLO-based)
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vannha2004&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vannha2004&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vannha2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vannha2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ---
 
 ## 📫 Contact
