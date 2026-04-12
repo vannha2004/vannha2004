@@ -94,13 +94,6 @@ I am particularly interested in bridging the gap between **research and real-wor
 - 🧠 LLM-based Intelligent Assistant with RAG
 - 👁️ Real-time Object Detection System (YOLO-based)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vannha2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vannha2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
----
-
 ## 📫 Contact
 
 - 📧 **Email:** [nha011246892@gmail.com](mailto:nha011246892@gmail.com)
